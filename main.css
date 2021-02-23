@@ -82,6 +82,7 @@ img {
 .notch {
     margin: 0 20%;
     margin-bottom: 15px;
+    margin-top: -1px;
     width: 60%;
     height: 25px;
     background-color: white;
